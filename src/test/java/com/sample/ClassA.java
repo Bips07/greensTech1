@@ -26,6 +26,17 @@ public class ClassA {
 	private void test8() {
 		System.out.println("Test8");
 	}
+	private void test9() {
+		System.out.println("Test9");
+	}
+	
+	private void test10() {
+		System.out.println("Test10");
+	}
+	
+	private void test11() {
+		System.out.println("Test11");
+	}
 	private void brnach2() {
 		System.out.println("branch2");
 	}
