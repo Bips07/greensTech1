@@ -26,5 +26,13 @@ public class ClassA {
 	private void test8() {
 		System.out.println("Test8");
 	}
-
+	void sample() {
+		System.out.println("sample 1");
+	}
+	void sample2() {
+		System.out.println("sample 2");
+	}
+	void sample3() {
+		System.out.println("sample 3");
+	}
 }
